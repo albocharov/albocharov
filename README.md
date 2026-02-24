@@ -50,7 +50,7 @@ Specializing in React and TypeScript, but ready to work with any tools required.
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albocharov&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albocharov&theme=dark" alt="GitHub Stats" />
 </div>
 
 <!--
